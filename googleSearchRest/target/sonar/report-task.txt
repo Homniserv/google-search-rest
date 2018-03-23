@@ -1,0 +1,7 @@
+organization=moueza-github
+projectKey=homniserv.moueza:googleSearchRest
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.37735
+dashboardUrl=https://sonarcloud.io/dashboard/index/homniserv.moueza:googleSearchRest
+ceTaskId=AWJRLFFkV4Tcj4EG2mTP
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWJRLFFkV4Tcj4EG2mTP
